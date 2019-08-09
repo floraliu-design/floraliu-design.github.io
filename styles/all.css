@@ -274,3 +274,8 @@ html {
     opacity: .8;
     color: white;
   }
+
+.social{
+  width: 200px;
+  height: auto;
+}
