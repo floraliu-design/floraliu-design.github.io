@@ -107,6 +107,14 @@ html {
     font-weight: 600;
   }
 
+  .socialbutton{
+    width: 30px;
+    opacity: .4;
+    margin-left: 7px;
+    display: inline;
+    text-align: center;
+  }
+
 
     .current_page {
     color: #b51353;
@@ -280,11 +288,6 @@ html {
   height: auto;
 }
 
-  .socialbutton{
-    width: 30px;
-    opacity: .4;
-    margin-left: 7px;
-  }
 
   .emph{
     font-size: 20px;
