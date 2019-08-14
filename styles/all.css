@@ -43,7 +43,7 @@ html {
     width: 65%;
     height: auto;
     padding-left: 30%;
-    padding-top: 50px;
+    padding-top: 75px;
     padding-bottom: 140px;
 
   }
@@ -86,7 +86,7 @@ html {
 
   footer {
     padding: 10px 10px;
-    padding-top: 120px;
+    padding-top: 70px;
     text-align: center;
   }
 
@@ -107,14 +107,6 @@ html {
     font-weight: 600;
   }
 
-  .socialbutton{
-    width: 30px;
-    opacity: .4;
-    margin-left: 7px;
-    display: inline;
-    text-align: center;
-  }
-
 
     .current_page {
     color: #b51353;
@@ -127,14 +119,32 @@ html {
     height: auto;
   }
 
+  .emph{
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+
+  .pink{
+    color: #b51353;
+    font-weight: 500;
+  }
+
+  .socialbutton{
+    width: 30px;
+    opacity: .4;
+    margin-left: 7px;
+    display: inline;
+  }
   .main{
-    padding-top: 14px;
+    padding-top: 25px;
     padding-bottom: 0px;
     text-align: left;
     padding-right: 30%;
     padding-left: 4%;
     font-weight: 500;
-    font-size: 15px;
+    font-size: 16px;
   }
 
 
@@ -281,22 +291,4 @@ html {
   .button:hover{
     opacity: .8;
     color: white;
-  }
-
-.social{
-  width: 20px;
-  height: auto;
-}
-
-
-  .emph{
-    font-size: 20px;
-    font-weight: 300;
-    margin-left: 200px;
-    margin-right: 200px;
-  }
-
-  .pink{
-    color: #b51353;
-    font-weight: 500;
   }
