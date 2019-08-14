@@ -279,3 +279,21 @@ html {
   width: 20px;
   height: auto;
 }
+
+  .socialbutton{
+    width: 30px;
+    opacity: .4;
+    margin-left: 7px;
+  }
+
+  .emph{
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+
+  .pink{
+    color: #b51353;
+    font-weight: 500;
+  }
