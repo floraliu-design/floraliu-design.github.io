@@ -289,8 +289,6 @@ html {
     height: auto;
     padding-left: 40%;
     max-width: 100%;
-    -moz-transition: all 0.2s;
-    -webkit-transition: all 0.2s;
     transition: all 0.2s;
   }
 
