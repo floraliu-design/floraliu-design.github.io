@@ -289,12 +289,10 @@ html {
     height: auto;
     padding-left: 40%;
     max-width: 100%;
-    transition: all 0.2s;
+    transition: transform 0.2s;
   }
 
   .work:hover {
-    -moz-transform: scale(1.05);
-    -webkit-transform: scale(1.05);
     transform: scale(1.05);
 }
 
