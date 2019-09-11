@@ -285,9 +285,9 @@ html {
   }
 
   .work{
-    width: 50%;
+    width: 57%;
     height: auto;
-    padding-left: 40%;
+    padding-left: 36%;
     max-width: 100%;
     transition: transform 0.2s;
   }
