@@ -307,13 +307,9 @@ html {
   .button{
     text-decoration: none;
     text-align: left;
-    font-weight: 600;
-    color: white;
-    background-color: black;
-    padding: 18px;
-    display: inline;
-    font-size: 15px;
-    margin-right: 700px;
+    font-weight: 300;
+    color:  black;
+    background-color: white;
   }
 
 
@@ -347,7 +343,7 @@ html {
 
   .button:hover{
     opacity: .8;
-    color: white;
+    color: black;
   }
 
   h5{
