@@ -261,9 +261,10 @@ html {
   }
 
   .leftimg{
-    width: 65%;
+   width: 68%;
     height: auto;
-    padding-left: 170px;
+    padding-left: 230px;
+    padding-top: 50px;
   }
   .rightimg{
     width: 80%;
