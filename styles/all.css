@@ -415,3 +415,16 @@ html {
 
   #more {display: none;}
 
+@media only screen
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+html {
+    font-family: 'Open Sans', sans-serif;
+  letter-spacing: 1.5px;
+  background-color: white;
+    margin: 0 auto;
+    width: 90%;
+    clear: both;
+}
+}
+
