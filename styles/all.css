@@ -415,3 +415,1382 @@ html {
 
   #more {display: none;}
 
+@media only screen
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+
+html {
+
+
+
+
+ font-family: 'Open Sans', sans-serif;
+
+
+ letter-spacing: 1.5px;
+
+
+ background-color: white;
+
+
+ width: 480px;
+
+
+ margin: 0 auto;
+
+
+ }
+
+
+
+
+
+
+
+ h1 {
+
+
+   color: black;
+
+
+   font-weight: 800;
+
+
+   font-size: 20px;
+
+
+   letter-spacing: 30px;
+
+
+   padding: 1px;
+
+
+   margin: 1px;
+
+
+ }
+
+
+
+
+
+
+
+ h2 {
+
+
+   color: black;
+
+
+   text-align: left;
+
+
+   padding: 0px;
+
+
+   margin: 0px;
+
+
+   font-size: 14px;
+
+
+   font-weight: 800;
+
+
+   letter-spacing: 1px;
+
+
+   padding-left: 10px;
+
+
+ }
+
+
+
+
+
+
+
+ #hello{
+
+
+   padding-top: 10px;
+
+
+ }
+
+
+
+
+
+
+
+ header {
+
+
+   padding: 27px 0 7px;
+
+
+   text-align: center;
+
+
+   margin-bottom: 10px;
+
+
+ }
+
+
+
+
+
+
+
+ #me{
+
+
+   width: 65%;
+
+
+   height: auto;
+
+
+   padding-left: 30%;
+
+
+   padding-top: 25px;
+
+
+   padding-bottom: 47px;
+
+
+
+
+
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+ header #title {
+
+
+   padding: 3px;
+
+
+ }
+
+
+
+
+
+
+
+ #menu {
+
+
+   display: inline;
+
+
+ }
+
+
+
+
+
+
+
+ #menu ul {
+
+
+   margin: 3px;
+
+
+   padding: 3px;
+
+
+   list-style: none;
+
+
+   text-align: center;
+
+
+ }
+
+
+
+
+
+
+
+ li a {
+
+
+   text-decoration: none;
+
+
+   color: black;
+
+
+   margin: 1.5px;
+
+
+   padding: 1.5px;
+
+
+   font-size: 7px;
+
+
+   font-weight: 300;
+
+
+ }
+
+
+
+
+
+
+
+ li, a:hover{
+
+
+   color: #b51353;
+
+
+   opacity: .6;
+
+
+ }
+
+
+
+
+
+
+
+ #menu li {
+
+
+   margin: 3.3px;
+
+
+   padding: 3.3px;
+
+
+   display: inline;
+
+
+ }
+
+
+
+
+
+
+
+ footer {
+
+
+   padding: 3.3px 3.3px;
+
+
+   padding-top: 23px;
+
+
+   text-align: center;
+
+
+ }
+
+
+
+
+
+
+
+ .textlink{
+
+
+   text-decoration: none;
+
+
+   color: #b51353;
+
+
+ }
+
+
+
+
+
+
+
+ #footer{
+
+
+   color: #848484;
+
+
+   font-size: 5.5px;
+
+
+ }
+
+
+ body {
+
+
+   margin: 0 auto;
+
+
+ }
+
+
+
+
+
+
+
+ .b{
+
+
+   font-weight: 600;
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+   .current_page {
+
+
+   color: #b51353;
+
+
+   font-weight: 2px;
+
+
+ }
+
+
+
+
+
+
+
+ img{
+
+
+   text-align: left;
+
+
+   width: 99%;
+
+
+   height: auto;
+
+
+ }
+
+
+
+
+
+
+
+ .emph{
+
+
+   font-size: 8px;
+
+
+   font-weight: 300;
+
+
+   margin-left: 70px;
+
+
+   margin-right: 70px;
+
+
+   letter-spacing: 1px;
+
+
+ }
+
+
+
+
+
+
+
+ .pink{
+
+
+   color: #b51353;
+
+
+   font-weight: 500;
+
+
+ }
+
+
+
+
+
+
+
+ .socialbutton{
+
+
+   width: 10px;
+
+
+   opacity: .4;
+
+
+   margin-left: 3px;
+
+
+ }
+
+
+
+
+
+
+
+ .socialfooter{
+
+
+   justify-content: center;
+
+
+ }
+
+
+ .main{
+
+
+   padding-top: 8px;
+
+
+   padding-bottom: 0px;
+
+
+   text-align: left;
+
+
+   padding-right: 30%;
+
+
+   padding-left: 4%;
+
+
+   font-weight: 500;
+
+
+   font-size: 6px;
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+ .about{
+
+
+   padding: 8px;
+
+
+   border-style: solid;
+
+
+   border-color: black;
+
+
+   border-width: 1px;
+
+
+   margin-left: 30%;
+
+
+   margin-right: 30%;
+
+
+
+
+
+
+
+ }
+
+
+
+
+
+
+
+ .form_error {
+
+
+   color: red;
+
+
+ }
+
+
+
+
+
+
+
+ .hidden {
+
+
+   display: none;
+
+
+ }
+
+
+
+
+
+
+
+ p{
+
+
+   text-align: center;
+
+
+ }
+
+
+
+
+
+
+
+ .center{
+
+
+   text-align: center;
+
+
+ }
+
+
+
+
+
+
+
+ .confirmation{
+
+
+   padding: 8px;
+
+
+   border-style: solid;
+
+
+   border-color: black;
+
+
+   border-width: 1px;
+
+
+   margin-left: 35%;
+
+
+   margin-right: 35%;
+
+
+
+
+
+
+
+ }
+
+
+
+
+
+
+
+ .confirm{
+
+
+   text-align: left;
+
+
+   padding-left: 10%;
+
+
+ }
+
+
+
+
+
+
+
+ .row {
+
+
+   display: flex;
+
+
+   padding: 7px;
+
+
+   overflow-x: hidden;
+
+
+ }
+
+
+
+
+
+
+
+ .column {
+
+
+   float: left;
+
+
+   width: 50%;
+
+
+ }
+
+
+
+
+
+
+
+ .c3{
+
+
+   flex-grow: 1
+
+
+ }
+
+
+
+
+
+
+
+ .left{
+
+
+   width: 45%;
+
+
+ }
+
+
+
+
+
+
+
+ .right{
+
+
+   width: 50%;
+
+
+ }
+
+
+
+
+
+
+
+ .self{
+
+
+   width: 80%;
+
+
+   height: auto;
+
+
+   padding:12px;
+
+
+ }
+
+
+ .descr{
+
+
+   padding-right: 20%;
+
+
+   text-align: left;
+
+
+   padding-bottom: 22px;
+
+
+   font-size: 6px;
+
+
+ }
+
+
+
+
+
+
+
+ .indent{
+
+
+   text-align: left;
+
+
+   padding-left: 80px;
+
+
+   padding-right: 80px;
+
+
+   padding-top: 4px;
+
+
+ }
+
+
+
+
+
+
+
+ h3{
+
+
+   font-size: 8.5px;
+
+
+   padding-bottom: 0px;
+
+
+   margin-bottom: 0px;
+
+
+   letter-spacing: 1px;
+
+
+   font-weight: 800;
+
+
+ }
+
+
+
+
+
+
+
+ .numlist{
+
+
+   text-align: left;
+
+
+   padding-left: 100px;
+
+
+   padding-right: 80px;
+
+
+   padding-top: 0px;
+
+
+ }
+
+
+
+
+
+
+
+ .projecthead{
+
+
+   font-size: 10px;
+
+
+   font-weight: 500;
+
+
+   text-align: center;
+
+
+ }
+
+
+ .inline{
+
+
+   display: inline;
+
+
+ }
+
+
+
+
+
+
+
+ .leftimg{
+
+
+  width: 68%;
+
+
+   height: auto;
+
+
+   padding-left: 80px;
+
+
+   padding-top: 17px;
+
+
+ }
+
+
+ .rightimg{
+
+
+   width: 80%;
+
+
+   height: auto;
+
+
+   padding-right: 68px;
+
+
+ }
+
+
+
+
+
+
+
+ .projectimg{
+
+
+   width: 80%;
+
+
+   height: auto;
+
+
+   padding-left: 60px;
+
+
+   padding-right: 33px;
+
+
+ }
+
+
+
+
+
+
+
+ .projectheadimg{
+
+
+   width: 65%;
+
+
+   height: auto;
+
+
+   padding-left: 85px;
+
+
+ }
+
+
+
+
+
+
+
+ .work{
+
+
+   width: 57%;
+
+
+   height: auto;
+
+
+   padding-left: 36%;
+
+
+   max-width: 100%;
+
+
+   transition: transform 0.2s;
+
+
+   padding-bottom: 13px;
+
+
+ }
+
+
+
+
+
+
+
+ .work:hover {
+
+
+   transform: scale(1.05);
+
+
+}
+
+
+
+
+
+
+
+ h4{
+
+
+   padding-top: 0px;
+
+
+   margin-top: 2px;
+
+
+   margin-bottom: 10px;
+
+
+   font-weight: 400;
+
+
+   font-size: 5px;
+
+
+
+
+
+
+
+ }
+
+
+ .button{
+
+
+   text-decoration: none;
+
+
+   text-align: left;
+
+
+   font-weight: 400;
+
+
+   color:  black;
+
+
+   background-color: white;
+
+
+   border-style: solid;
+
+
+   padding: 3px;
+
+
+   border-width: 1px;
+
+
+   border-radius: 4px;
+
+
+   padding-left: 7px;
+
+
+   padding-right: 7px;
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+ .notbutton{
+
+
+   text-decoration: none;
+
+
+   text-align: left;
+
+
+   font-weight: 600;
+
+
+   color: white;
+
+
+   background-color: black;
+
+
+   padding: 6px;
+
+
+   display: inline;
+
+
+   font-size: 5px;
+
+
+   margin-right: 230px;
+
+
+ }
+
+
+
+
+
+
+
+ .ital{
+
+
+   font-weight: 300;
+
+
+   font-size: 9px;
+
+
+ }
+
+
+
+
+
+
+
+ .selfh2{
+
+
+   text-align: center;
+
+
+   font-size: 10px;
+
+
+ }
+
+
+
+
+
+
+
+ .caption{
+
+
+   padding:0px;
+
+
+   margin: 0px;
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+ .button:hover{
+
+
+   opacity: .7;
+
+
+   color: black;
+
+
+ }
+
+
+
+
+
+
+
+ h5{
+
+
+   font-weight: 600;
+
+
+   font-size: 5px;
+
+
+   font-style: italic;
+
+
+   padding-bottom: 3.5px;
+
+
+   margin-bottom: 0px;
+
+
+   color: #b51353;
+
+
+   opacity: .9;
+
+
+
+
+
+
+
+ }
+
+
+
+
+
+
+
+ .list{
+
+
+   padding-top: 1px;
+
+
+   margin: 0px;
+
+
+   text-align: left;
+
+
+   font-size: 4px;
+
+
+   font-weight: 500;
+
+
+ }
+
+
+
+
+
+
+
+ span.wave {
+
+
+   animation-name: wave-animation;
+
+
+   animation-duration: 2.5s;
+
+
+   animation-iteration-count: infinite;
+
+
+   transform-origin: 70% 70%;
+
+
+   display: inline-block;
+
+
+ }
+
+
+
+
+
+
+
+ @keyframes wave-animation {
+
+
+     0% { transform: rotate(  0.0deg) }
+
+
+    10% { transform: rotate(-10.0deg) }
+
+
+    20% { transform: rotate( 12.0deg) }
+
+
+    30% { transform: rotate(-10.0deg) }
+
+
+    40% { transform: rotate(  9.0deg) }
+
+
+    50% { transform: rotate(  0.0deg) }
+
+
+   100% { transform: rotate(  0.0deg) }
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+ .bounce {
+
+
+   animation-name: bounce-animation;
+
+
+   animation-duration: 3.5s;
+
+
+   animation-iteration-count: infinite;
+
+
+   transform-origin: 70% 70%;
+
+
+ }
+
+
+
+
+
+
+
+ @keyframes bounce-animation {
+
+
+     0% { transform: translateY(  3px) }
+
+
+    10% { transform: translateY(0px) }
+
+
+    20% { transform: translateY( 3px) }
+
+
+    30% { transform: translateY(0px) }
+
+
+    40% { transform: translateY(  3px) }
+
+
+    50% { transform: translateY(  0px) }
+
+
+    60% { transform: translateY( 3px) }
+
+
+    70% { transform: translateY(0px) }
+
+
+    80% { transform: translateY(  3px) }
+
+
+    90% { transform: translateY(  0px) }
+
+
+   100% { transform: translateY(  3px) }
+
+
+ }
+
+
+
+
+
+
+
+ #more {display: none;}
+
+
+}
+
+
