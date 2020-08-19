@@ -201,7 +201,7 @@ body {
 
   .row {
     display: flex;
-    padding: 20px;
+    padding: 15px;
     overflow-x: hidden;
   }
 
@@ -215,11 +215,12 @@ body {
   }
 
   .left{
-    width: 45%;
+    width: 50%;
   }
 
   .right{
-    width: 50%;
+    width: 45%;
+    padding-left: 7%;
   }
 
   .self{
@@ -242,7 +243,7 @@ body {
   }
 
   h3{
-    font-size: 26px;
+    font-size: 24px;
     padding-bottom: 0px;
     margin-bottom: 0px;
     letter-spacing: 1px;
@@ -291,17 +292,18 @@ body {
   }
 
   .work{
-    width: 52%;
+    width: 75%;
     height: auto;
-    padding-left: 40%;
+    padding-left: 30%;
     max-width: 100%;
     transition: transform 0.2s;
     padding-bottom: 40px;
   }
-
+/*
   .work:hover {
     transform: scale(1.05);
 }
+*/
 
   h4{
     padding-top: 0px;
